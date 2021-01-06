@@ -1,0 +1,135 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+.full-stack{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 40px;
+}
+.top-ban h1{
+    font-size: 60px;
+}
+.top-ban{
+    width: 30%;
+    padding-left: 10%;
+    font-size: 20px;
+    float: left;
+}
+.hello{
+    padding-top: 60px;
+    line-height: 1%;
+}
+.button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(45deg,salmon,tomato);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 7px;
+    color: aliceblue;
+    font-weight: 600;
+    padding: 20px 40px 20px 40px;
+}
+.rob{
+    color: #ff6347e1;
+}
+.img{
+    max-width:100%;
+    height:650px;
+    padding-left: 10%;
+    position:relative;
+    bottom: 60px;
+}
+.middle-ban{
+    float: left;
+}
+.middle p{
+    font-size: 20px;
+}
+.middle h1{
+    font-size: 40px;
+}
+.div4{
+    margin-left: 50%;
+    margin-right: 10%;
+    position:relative;
+    top: 60px;
+}
+.middle img{
+    padding-left: 20%;
+    position:relative;
+    top: 150%;
+}
+.latest{
+    margin-top: 30%;
+    text-align: center;
+    font-size: 40px;
+}
+.sec3{
+    background-color: whitesmoke;
+}
+.la{
+    color: #ff6347e1;
+}
+.box{
+    margin-left: 6%;
+    margin-top: 7%;
+    border-radius: 10px;
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+    padding: 2%;
+}
+.img-box{
+    max-width: 100%;
+    height:200px;
+}
+.box p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: .60em;
+}
+.work h1{
+    font-size: 300%;
+    padding-left: 20%;
+    padding-top: 5%;
+}
+.last-pic{
+    max-width: 100%;
+    height:200px;
+    padding-left: 23%;
+    padding-top: 17%;
+}
+.work{
+    position: relative;
+    margin-top: -210px; 
+}
+.work h1{
+    padding-left: 27%;
+    color: white;
+}
+.btn{
+    position: relative;
+    margin-top: -80px;
+    padding-left: 60%;
+}
+.stay{
+    position: relative;
+    margin-top: 10%;
+    text-align: center;
+    color: grey;
+}
+.design{
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: 700;
+    color:black;
+}
+.icon{
+    max-width:100%;
+    float: left;
+    position:relative;
+    left: 38%;
+}
+.foot{
+    text-align: center;
+    position: relative;
+    margin-top: 12%;
+}
